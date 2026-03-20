@@ -5,3 +5,4 @@ I'm a passionate **hacker** with expertise in hacking. I enjoy helping the tech 
 
 ## 💻 Tech Stack
 **Python Development and Analysis** 
+**Linux working** 
